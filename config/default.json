@@ -1,0 +1,6 @@
+{
+  "mongoURI":"mongodb+srv://philip:philip123@connectdev.urtdw.mongodb.net/Devs?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "5469be6bd85c09624aea",
+  "githubSecret": "0ac7667de70a0ae30eb83ad6093435351966d53c"
+}
